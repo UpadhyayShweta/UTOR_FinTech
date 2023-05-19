@@ -1,4 +1,4 @@
-#Simplifying Standby Letters of Credit and Guarantees Using Blockchain at The National Bank of Canada
+## Simplifying Standby Letters of Credit and Guarantees Using Blockchain at The National Bank of Canada
 
 ![National Bank of Canada](/NBC-Img.png)
 
